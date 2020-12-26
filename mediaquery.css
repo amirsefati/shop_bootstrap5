@@ -1,0 +1,17 @@
+@media only screen and (max-width: 600px) {
+    .top_slider{
+        height: 500px;
+        background: #2F766D;
+        padding: 10px 20px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    .top_slider{
+        height: 580px;
+        background: #2F766D;
+        padding: 10px 20px;
+    }
+}
+
+
